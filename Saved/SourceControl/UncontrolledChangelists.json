@@ -8,7 +8,10 @@
 				"D:/UnrealEngine/WarehouseWreckage/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"D:/UnrealEngine/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
 				"D:/UnrealEngine/WarehouseWreckage/Content/BP_Projectile.uasset",
-				"D:/UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap"
+				"D:/UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap",
+				"D:/UnrealEngine/House-Level-Unreal-5.2/Content/IndustryPropsPack6/Meshes/M_SM_Rack01_MI_Rack01_1_8169B2194DC322FF9A9D5F868C1E613F.uasset",
+				"D:/UnrealEngine/House-Level-Unreal-5.2/Content/IndustryPropsPack6/Meshes/SM_Barrel05Modified.uasset",
+				"D:/UnrealEngine/House-Level-Unreal-5.2/Content/BP_Barrel.uasset"
 			]
 		}
 	]
