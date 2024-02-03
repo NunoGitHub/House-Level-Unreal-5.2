@@ -1293,3 +1293,59 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.03-10.49.57:451][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 911 ms)
 [2024.02.03-10.49.57:455][929]AssetCheck: New page: Asset Save: BSP_MAP
 [2024.02.03-10.49.57:455][929]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/BSP_MAP.BSP_MAP
+[2024.02.03-10.56.09:083][342]LogSlate: Took 0.005118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.03-10.56.25:021][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-10.56.25:108][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.03-10.56.25:140][214]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BSP_MAP
+[2024.02.03-10.56.25:141][214]LogSavePackage: Moving '../../../../UnrealEngine/House-Level-Unreal-5.2/Saved/BSP_MAP95773AF84D8331E4653660B16CBB5DEA.tmp' to '../../../../UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap'
+[2024.02.03-10.56.25:150][214]LogFileHelpers: Saving map 'BSP_MAP' took 0.079
+[2024.02.03-10.56.25:156][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1.04 sec)
+[2024.02.03-10.56.25:158][214]AssetCheck: New page: Asset Save: BSP_MAP
+[2024.02.03-10.56.25:158][214]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/BSP_MAP.BSP_MAP
+[2024.02.03-10.57.42:675][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-10.57.42:778][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.03-10.57.42:815][293]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BSP_MAP
+[2024.02.03-10.57.42:815][293]LogSavePackage: Moving '../../../../UnrealEngine/House-Level-Unreal-5.2/Saved/BSP_MAP6E6AD1614BF80EBDC1F5739032E63ADA.tmp' to '../../../../UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap'
+[2024.02.03-10.57.42:825][293]LogFileHelpers: Saving map 'BSP_MAP' took 0.083
+[2024.02.03-10.57.42:832][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 1.20 sec)
+[2024.02.03-10.57.42:834][293]AssetCheck: New page: Asset Save: BSP_MAP
+[2024.02.03-10.57.42:834][293]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/BSP_MAP.BSP_MAP
+[2024.02.03-11.02.53:100][947]BlueprintLog: New page: Collapse to Function
+[2024.02.03-11.03.29:543][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-11.03.29:637][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.02.03-11.03.29:677][299]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BSP_MAP
+[2024.02.03-11.03.29:677][299]LogSavePackage: Moving '../../../../UnrealEngine/House-Level-Unreal-5.2/Saved/BSP_MAP2F1B2D594D72583C362F309B4D9A66EF.tmp' to '../../../../UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap'
+[2024.02.03-11.03.29:685][299]LogFileHelpers: Saving map 'BSP_MAP' took 0.086
+[2024.02.03-11.03.29:692][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.35 sec)
+[2024.02.03-11.03.29:694][299]AssetCheck: New page: Asset Save: BSP_MAP
+[2024.02.03-11.03.29:694][299]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/BSP_MAP.BSP_MAP
+[2024.02.03-11.04.08:908][639]LogEditorTransaction: Undo Move Node
+[2024.02.03-11.04.09:777][688]LogEditorTransaction: Undo Rename Function
+[2024.02.03-11.04.10:261][744]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2024.02.03-11.05.29:770][385]BlueprintLog: New page: Collapse to Function
+[2024.02.03-11.05.55:996][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-11.05.56:095][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.03-11.05.56:128][490]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BSP_MAP
+[2024.02.03-11.05.56:128][490]LogSavePackage: Moving '../../../../UnrealEngine/House-Level-Unreal-5.2/Saved/BSP_MAP74D9A8FE4E7E4574D86579BA4D06A273.tmp' to '../../../../UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap'
+[2024.02.03-11.05.56:137][490]LogFileHelpers: Saving map 'BSP_MAP' took 0.079
+[2024.02.03-11.05.56:145][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1.50 sec)
+[2024.02.03-11.05.56:147][490]AssetCheck: New page: Asset Save: BSP_MAP
+[2024.02.03-11.05.56:147][490]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/BSP_MAP.BSP_MAP
+[2024.02.03-11.06.19:751][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-11.06.19:846][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.02.03-11.06.19:886][293]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BSP_MAP
+[2024.02.03-11.06.19:886][293]LogSavePackage: Moving '../../../../UnrealEngine/House-Level-Unreal-5.2/Saved/BSP_MAP07B187234516756E71FAA38B88EB7FF0.tmp' to '../../../../UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap'
+[2024.02.03-11.06.19:896][293]LogFileHelpers: Saving map 'BSP_MAP' took 0.090
+[2024.02.03-11.06.19:904][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1.65 sec)
+[2024.02.03-11.06.19:905][293]AssetCheck: New page: Asset Save: BSP_MAP
+[2024.02.03-11.06.19:905][293]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/BSP_MAP.BSP_MAP
+[2024.02.03-11.06.29:468][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-11.06.29:563][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.03-11.06.29:593][436]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BSP_MAP
+[2024.02.03-11.06.29:595][436]LogSavePackage: Moving '../../../../UnrealEngine/House-Level-Unreal-5.2/Saved/BSP_MAP0C0049874DD16DC56628FE93FF211364.tmp' to '../../../../UnrealEngine/House-Level-Unreal-5.2/Content/StarterContent/Maps/BSP_MAP.umap'
+[2024.02.03-11.06.29:604][436]LogFileHelpers: Saving map 'BSP_MAP' took 0.081
+[2024.02.03-11.06.29:612][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 1.79 sec)
+[2024.02.03-11.06.29:614][436]AssetCheck: New page: Asset Save: BSP_MAP
+[2024.02.03-11.06.29:614][436]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/BSP_MAP.BSP_MAP
+[2024.02.03-11.07.20:650][532]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.03-11.07.20:650][532]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
